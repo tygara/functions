@@ -1,7 +1,7 @@
 # Functions
 
 ## Flowchart
-[Flowchart](.docs/flowchart.jpg)
+[Flowchart](docs/flowchart.jpg)
 
 ## Phase - 1 Planning
 For this lab the plan was to create a function `_oddoreven` which took a register
